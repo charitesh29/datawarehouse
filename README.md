@@ -36,7 +36,7 @@ This project involves:
 
 Everything is for Free!
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
-- **[SQL Server Express].(https://signup.snowflake.com/):**Snowflake cloud Datawarehouse.
+- **[Snowflake].(https://signup.snowflake.com/):**Snowflake cloud Datawarehouse.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
