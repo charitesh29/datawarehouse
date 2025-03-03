@@ -1,7 +1,7 @@
 /*
 
 =============================================================
-Create Database and Schemas
+Create Database and Schemas along with stage to load data into Tables
 =============================================================
 
 Script Purpose:
@@ -19,3 +19,5 @@ CREATE SCHEMA IF NOT EXISTS BRONZE;
 CREATE SCHEMA IF NOT EXISTS SILVER;
 
 CREATE SCHEMA IF NOT EXISTS GOLD;
+
+CREATE STAGE DATA_WAREHOUSE.BRONZE.DATA_WAREHOUSE_MODERN;
